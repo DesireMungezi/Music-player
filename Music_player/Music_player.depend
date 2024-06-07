@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717395340 source:c:\users\frank\c++ programming\music_player\main.cpp
+	<iostream>
+	<string>
+
